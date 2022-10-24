@@ -18,7 +18,7 @@
 - Any feedback for the study group management is always very welcome!
 - Please read the course syllabus carefully before joining the study group.
   - It describes the completion time of the course as 18 hours in total.
-  - The course is designed with 4 weeks of materials, quizzes and weekyl challenges.
+  - The course is designed with 4 weeks of materials, quizzes and weekly challenges.
 
 ## 🗓 Period 
 2022.11.02(Wed) - 2022.11.30(Wed) (5 weeks, OT in the first week)  
@@ -28,8 +28,10 @@
 - Take a weekly course and successfully passes practice exercises including weekly challenge.
 - Write a study note(s) of the week and commit it on github.
   - Fork the repository and create a pull request.
+  - Study Note format can be vary but markdown (.md) preferred.
   - Make a **pull request** of the study notes by **every Tuesday 23:59:59**
 - Have a presentation about own weekly challenge and the study note to share and discuss. (2 person per a week)
+  - Will present in [KDD Discord Channel](https://discord.gg/WpgCyTQd).
   - Who presents what will be preannounced.
   - **Presentations** are given on **8pm every Wednesday**.
 - Posting and presentation can be written and conducted with a preferred language, either **English** or **Korean**.
@@ -42,8 +44,8 @@
 > 🔖 Review (Optional)
   - You will review others’ presentations in the week you don’t present.
   - You can review the writing or presentation skills.
-  - Please respect the writer. There’s nothing wrong, it’s just different.
   - If you have a better way to explain or reference, please leave it as well.
+  - Please respect the writer. There’s nothing wrong, it’s just different.
   - Review is not only criticizing, but praising.
 
 ## 💾 Rule of PR and study note writing
