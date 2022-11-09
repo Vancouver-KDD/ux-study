@@ -63,4 +63,3 @@ Udemy에 있는 유료 강의들도 있습니다.
 [뉴욕 프로덕트 디자이너가 알려주는, 입문자를 위한 UX디자인 개론](https://www.inflearn.com/course/ux%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9E%85%EB%AC%B8#curriculum)
 
 [피그마(Figma)를 활용한 UI디자인 입문부터 실전까지 A to Z](https://www.inflearn.com/course/%ED%94%BC%EA%B7%B8%EB%A7%88-ui%EB%94%94%EC%9E%90%EC%9D%B8)
-
