@@ -3,19 +3,28 @@
 
 * Empathize - Define - Ideate - Prototype - Test
 - not a linear process, iterate and refine
-- Emphathize
--   User research using user surveys, interviews, observation sessions
-- Define
--   Problem statement
-- Ideate
--   come up with as many design solutions as possible
--   brainstorming sessions
-- Prototype and Test
--   wireframe, sketch, sitemap
--   low-fi and high-fi prototype
--   
-Equality - same opportunity
-Equity - different levels of opportunity
+
+### Emphathize
+1. User research using user surveys, interviews, observation sessions
+### Define
+1. Problem statement
+### Ideate
+1.   come up with as many design solutions as possible
+2.  brainstorming sessions
+### Prototype and Test
+1.  wireframe, sketch, sitemap
+2.  low-fi and high-fi prototype
+
+
+- Equality - same opportunity
+- Equity - different levels of opportunity
 
 * Accessibility features
 
+
+### Platform 
+
+> mobile
+>> average session: 72 sec
+> desktop
+>> average session: 150 sec
