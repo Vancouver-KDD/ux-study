@@ -24,10 +24,8 @@
 
 ### Platform 
 
-> mobile
->> average session: 72 sec
-> desktop
->> average session: 150 sec
+1. mobile average session: 72 sec
+2. desktop average session: 150 sec
 
 1. Screen size
 2. Interaction
