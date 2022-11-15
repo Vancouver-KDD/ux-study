@@ -28,3 +28,8 @@
 >> average session: 72 sec
 > desktop
 >> average session: 150 sec
+
+1. Screen size
+2. Interaction
+3. Content layout
+4. Functionality
