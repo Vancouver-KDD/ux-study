@@ -1,6 +1,6 @@
 # UX Design Study
 
-[(Google UX Design Professional Certificate - 1. Foundations of User Experience (UX) Design)](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design)
+[(Google UX Design Professional Certificate - 2. Start the UX Design Process: Empathize, Define, and Ideate)](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design)
 
 *Read this in other languages*: [English](README.md), [한국어](README_ko.md)
 
@@ -13,16 +13,8 @@
 - The primary purpose of this study group is not preparing a UX designer job but to understand UX design approaches and surrounding foundations to adopt in development experience.
 - Any level of developers or designers are welcome to join but the course could be a bit busy to finish if you mind. 🥲
 
-## ❗️ Please Read
-- This study group is a pilot study group for further **Google UX Design Professional Certificate** study if there are enough interests.
-- Any feedback for the study group management is always very welcome!
-- Please read the course syllabus carefully before joining the study group.
-  - It describes the completion time of the course as 18 hours in total.
-  - The course is designed with 4 weeks of materials, quizzes and weekly challenges.
-
 ## 🗓 Period 
-2022.11.02(Wed) - 2022.11.30(Wed) (5 weeks, OT in the first week)  
-1 or 2 weeks may be added depends on the process
+2023.01.04(Wed) - 2023.02.01(Wed) (5 weeks, OT in the first week)  
 
 ## ❓ How to 
 - Take a weekly course and successfully passes practice exercises including weekly challenge.

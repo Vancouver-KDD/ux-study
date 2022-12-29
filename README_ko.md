@@ -1,6 +1,6 @@
 # UX Design Study
 
-[(Google UX Design Professional Certificate - 1. Foundations of User Experience (UX) Design)](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design)
+[(Google UX Design Professional Certificate - 2. Start the UX Design Process: Empathize, Define, and Ideate)](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design)
 
 *Read this in other languages*: [English](README.md), [한국어](README_ko.md)
 
@@ -13,15 +13,8 @@
 - 가장 우선적인 목표는 UX designer를 준비하기 위한 것이 아니라 UX design의 기본과 방법을 이해하고 개발하는 능력에 덧붙이기 위함입니다.
 - 모든 레벨의 개발자 분들과 디자이너 분들을 환영하지만 코스의 완료 일정이 아주 약간은 벅찰 수도 있습니다. 🥲
 
-## ❗️ 반드시 읽어주세요
-- 이 스터디 그룹은 파일럿으로 진행되는 모임이며 이후 관심도에 따라서 **Google UX Design Professional Certificate** 과정을 계속 진행하고자 하는 목표를 가지고 있습니다.
-- 스터디 그룹 진행과 관련된 모든 피드백은 언제든 환영합니다!
-- 스터디 그룹에 참여하기 전에 코스의 강의 계획 목차를 반드시 확인해주세요.
-  - 표기된 바로는 완료까지 총 18시간이 걸릴 것으로 예상됩니다.
-  - 총 4주의 강의자료, 퀴즈 그리고 각 주차 챌린지를 풀어야합니다.
-
 ## 🗓 기간 
-2022.11.02(Wed) - 2022.11.30(Wed) (5 weeks, 첫 주는 OT입니다)  
+2023.01.04(Wed) - 2023.02.01(Wed) (5 weeks, 첫 주는 OT입니다)  
 스터디 진행 경과에 따라서 1~2주 정도 늘어날 수 있습니다.
 
 ## ❓ 어떻게 진행하나요?
