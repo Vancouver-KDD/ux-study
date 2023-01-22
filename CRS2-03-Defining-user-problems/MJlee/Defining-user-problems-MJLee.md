@@ -30,21 +30,25 @@ Hypothesis statements don't have a standard formula, so be flexible and adapt to
 ![](https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/example%20of%20slide%20%238.jpg)
 
 
-# Create a value proposition
+## Create a value proposition
+
 ##### - What does your product do?
 ##### - why should the user care?
 
-## Build value propositions
+### Build value propositions
 1. Gather all the great features and benefits
 2. Categorize values and line up
 3. Official value proposition list which is connect these features and benefits with the needs of your users
 4. Review and compare with competitors and remove the redudant features and pick the unique benefits
 
-# They need to be short, clear, and to the point. 
+### They need to be short, clear, and to the point. 
 - Users want to be able to easily identify exactly how your product will meet their unique needs and what sets your product apart in the market. 
 - Sometimes users won’t know what they need until you explain it to them. That’s the real heart of product design innovation.
 
-# Psychology principles that influence design
+
+
+## Psychology principles that influence design
+
 ### 01. Von Restorff effect or isolation effect
 States that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.
 
@@ -56,5 +60,6 @@ The more options a user has, the longer it takes for them to make a decision.
 
 
 
-### Quiz
-- [Persona [Yaelim Jang]: Design a review-tracking app for a food truck](https://docs.google.com/presentation/d/1EdUoe2iZ2zMARPIDBSE27q4nolMYa6S5XZiogBGJshM/edit?usp=sharing)
+## Quiz
+(https://docs.google.com/presentation/d/1EdUoe2iZ2zMARPIDBSE27q4nolMYa6S5XZiogBGJshM/edit?usp=sharing)
+https://docs.google.com/document/d/1GZmXlBSA9fonI-h3fOlQFzorWIRAdSHwXc4Ip_pJOxI/edit?usp=sharing
