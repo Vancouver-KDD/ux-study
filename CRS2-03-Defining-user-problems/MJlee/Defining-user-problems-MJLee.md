@@ -1,6 +1,7 @@
 # Define problem and hypothesis statements
 
-## Problem statement
+
+## 01. Problem statement
 A clear description of the user's needs that should be addressed.
 ### The 5 Ws and H: who, what, when, where, why, and how
 - <b> Who</b> is experiencing the problem? To create successful solutions for users.
@@ -15,12 +16,15 @@ A clear description of the user's needs that should be addressed.
 
 - <b> How</b> are users reaching their goals by using the product? Understanding how users reach their goals allows you to map the user journey that they take through your product.
 
-![](https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/problemStatement-fox.jpg)
+![](https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/problemStatement-fox.jpg)   
 
 
 
 
-## Define hypothesis statements
+
+
+
+## 02. Define hypothesis statements
 Hypothesis statements don't have a standard formula, so be flexible and adapt to end up with the best design solution.
 - Empathizing with users allows you to consider the product experience from the users’ perspective. 
 - Define the problem they're facing.
@@ -30,7 +34,11 @@ Hypothesis statements don't have a standard formula, so be flexible and adapt to
 ![](https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/example%20of%20slide%20%238.jpg)
 
 
-## Create a value proposition
+
+
+
+
+## 03. Create a value proposition
 
 ##### - What does your product do?
 ##### - why should the user care?
@@ -43,11 +51,18 @@ Hypothesis statements don't have a standard formula, so be flexible and adapt to
 
 ### They need to be short, clear, and to the point. 
 - Users want to be able to easily identify exactly how your product will meet their unique needs and what sets your product apart in the market. 
-- Sometimes users won’t know what they need until you explain it to them. That’s the real heart of product design innovation.
+- Sometimes users won’t know what they need until you explain it to them. That’s the real heart of product design innovation.   
 
 
 
-## Psychology principles that influence design
+    
+    
+    
+    
+#     
+
+
+## 04. Psychology principles that influence design
 
 ### 01. Von Restorff effect or isolation effect
 States that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.
@@ -61,5 +76,4 @@ The more options a user has, the longer it takes for them to make a decision.
 
 
 ## Quiz
-(https://docs.google.com/presentation/d/1EdUoe2iZ2zMARPIDBSE27q4nolMYa6S5XZiogBGJshM/edit?usp=sharing)
 https://docs.google.com/document/d/1GZmXlBSA9fonI-h3fOlQFzorWIRAdSHwXc4Ip_pJOxI/edit?usp=sharing
