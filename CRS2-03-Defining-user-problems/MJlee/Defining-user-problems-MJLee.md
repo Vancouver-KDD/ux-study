@@ -14,15 +14,47 @@ A clear description of the user's needs that should be addressed.
 - <b> Why</b> is the problem important? Knowing how this problem affects your user’s experience and life will help to clarify the potential consequences.
 
 - <b> How</b> are users reaching their goals by using the product? Understanding how users reach their goals allows you to map the user journey that they take through your product.
-https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/problemStatement-fox.jpg
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/IyGboVdxTA6hm6FXcVwOoQ_73e134c858034462b26616a168e691f6_Screenshot-2021-03-03-at-2.46.45-PM.png?expiry=1673568000000&hmac=bxrkuSC5ScJwKjM_8I4wXAU8dbrbPABVEHWMclH9OoI)
-- Empathy maps are easily `understood charts` that explain what UX designers have learned about a particular type of user. Empathy maps can help break down each interview into digestible pieces of information.
-##### Types of empathy maps
-- one-user empathy maps
-- aggregated empathy maps (a.k.a. multiple-user empathy maps)
+![](https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/problemStatement-fox.jpg)
 
-### Create personas
-##### Learn more about personas
-- Personas are fictional users whose goals and characteristics represent the needs of a larger group of users.
+
+
+
+## Define hypothesis statements
+Hypothesis statements don't have a standard formula, so be flexible and adapt to end up with the best design solution.
+- Empathizing with users allows you to consider the product experience from the users’ perspective. 
+- Define the problem they're facing.
+
+![](https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/hypothesis%20statements.jpg)
+
+![](https://github.com/minj2/ux-study/blob/main/CRS2-03-Defining-user-problems/MJlee/image/example%20of%20slide%20%238.jpg)
+
+
+# Create a value proposition
+##### - What does your product do?
+##### - why should the user care?
+
+## Build value propositions
+1. Gather all the great features and benefits
+2. Categorize values and line up
+3. Official value proposition list which is connect these features and benefits with the needs of your users
+4. Review and compare with competitors and remove the redudant features and pick the unique benefits
+
+# They need to be short, clear, and to the point. 
+- Users want to be able to easily identify exactly how your product will meet their unique needs and what sets your product apart in the market. 
+- Sometimes users won’t know what they need until you explain it to them. That’s the real heart of product design innovation.
+
+# Psychology principles that influence design
+### 01. Von Restorff effect or isolation effect
+States that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.
+
+### 02. Serial position effect,
+Serial position effect, says that when people are given a list of items, they are more likely to remember the first few and the last few,
+
+### 03.Hick's law
+The more options a user has, the longer it takes for them to make a decision.
+
+
+
+### Quiz
 - [Persona [Yaelim Jang]: Design a review-tracking app for a food truck](https://docs.google.com/presentation/d/1EdUoe2iZ2zMARPIDBSE27q4nolMYa6S5XZiogBGJshM/edit?usp=sharing)
