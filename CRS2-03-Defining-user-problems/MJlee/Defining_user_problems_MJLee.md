@@ -1,7 +1,7 @@
 # Define problem and hypothesis statements
 
 
-## 01. Problem statement
+## Problem statement
 A clear description of the user's needs that should be addressed.
 ### The 5 Ws and H: who, what, when, where, why, and how
 - <b> Who</b> is experiencing the problem? To create successful solutions for users.
@@ -24,7 +24,7 @@ A clear description of the user's needs that should be addressed.
 
 
 
-## 02. Define hypothesis statements
+## Define hypothesis statements
 Hypothesis statements don't have a standard formula, so be flexible and adapt to end up with the best design solution.
 - Empathizing with users allows you to consider the product experience from the users’ perspective. 
 - Define the problem they're facing.
@@ -38,7 +38,7 @@ Hypothesis statements don't have a standard formula, so be flexible and adapt to
 
 
 
-## 03. Create a value proposition
+## Create a value proposition
 
 ##### - What does your product do?
 ##### - why should the user care?
@@ -66,7 +66,7 @@ Hypothesis statements don't have a standard formula, so be flexible and adapt to
     
 
 
-## 04. Psychology principles that influence design
+## Psychology principles that influence design
 
 ### 01. Von Restorff effect or isolation effect
 States that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.
