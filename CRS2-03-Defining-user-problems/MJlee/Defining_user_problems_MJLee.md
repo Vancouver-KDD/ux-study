@@ -59,7 +59,6 @@ Hypothesis statements don't have a standard formula, so be flexible and adapt to
     
     
     
-#     
 
 
 ## 04. Psychology principles that influence design
