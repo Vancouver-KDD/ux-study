@@ -13,7 +13,7 @@
 
 - ideas will be narrowed down when you have to think about constraints.
 - we need to come up with ideas that are equitable- works best for usrs
-- Let users test the idea and they mighy find the best ideas.
+- Let users test the idea and they might find the best ideas.
 
 
 ####  Understanding the business needs behind a design
