@@ -17,7 +17,7 @@
 
 
 ####  Understanding the business needs behind a design
-#####  Design can help facilitate a conversation between a business and its users. 
+<b>Design can help facilitate a conversation between a business and its users. </b>
 - Voice and tone have a huge impact on a user's experience with a product
 - Keep in mind the fundamentals of driving sales when designing.
 - it's helpful to research your brand's competitors as part of the design exploration.
