@@ -2,7 +2,7 @@
 1. Determination to succeed 
 2. Desire to help others
 
-<br/><br/>
+
 ___
 
 # UX Design process
@@ -12,9 +12,9 @@ ___
 - Empathize with users, and why it's important to do so before you start designing. 
 - Personas, user story, identified happy paths and edge cases, and user journey maps.
 - Defined the user problem, by creating problem statements and hypothesis statements. 
-- Ideate through the use of competitive audits and brainstorming exercises, like "How Might We" and Crazy Eights. 
-- 
+<br/>:point_right: Ideate through the use of competitive audits and brainstorming exercises, like "How Might We" and Crazy Eights. 
 
+<br/><br/>
 ## Ideating-design-solutions
 
 #### Preparing for ideation
