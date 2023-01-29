@@ -10,14 +10,13 @@ ___
 
 
 ## Basics of UX research & design thinking process. 
-- Empathize with users, and why it's important to do so before you start designing. 
-- Personas, user story, identified happy paths and edge cases, and user journey maps.
-- Defined the user problem, by creating problem statements and hypothesis statements. 
-<br/>:point_right: Ideate through the use of competitive audits and brainstorming exercises, like "How Might We" and Crazy Eights. 
+1. Personas, user story, identified happy paths and edge cases, and user journey maps based on empathizing with users.
+2. Defined the user problem, by creating problem statements and hypothesis statements. 
+3. :point_right: Ideate through the use of competitive audits and brainstorming exercises, like "How Might We" and Crazy Eights. 
 
 <br/><br/>
 ## Ideating-design-solutions
-
+Ideation is all about coming up with lots and lots of ideas. (No evaluation is allowed at this stage.)
 #### Preparing for ideation
 - Empathize with your user. 
 - Define the problem. 
@@ -26,13 +25,15 @@ ___
 - Assemble a diverse team. 
 - Think outside the box. 
 
+After you come up with a bunch of ideas, take a break. and evaluate.
+1. Is it technically possible to build? 
+2. Does it solve the user problem you're focusing on? 
+3. Is it financially beneficial for the business?
 
 #### IDEATION is focusd on coming up with a lot of ideas
-
 - ideas will be narrowed down when you have to think about constraints.
 - we need to come up with ideas that are equitable- works best for usrs
 - Let users test the idea and they might find the best ideas.
-
 
 ####  Understanding the business needs behind a design
 <b>Design can help facilitate a conversation between a business and its users. </b>
