@@ -7,8 +7,7 @@ ___
 
 # UX Design process
 ![ ](./images/ux-design-process.jpg)
-![](https://github.com/minj2/ux-study/blob/main/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg)
-CRS2-04-Ideating-design-solutions/MJLee/images/ux design process.jpg
+
 
 ## Basics of UX research & design thinking process. 
 - Empathize with users, and why it's important to do so before you start designing. 
