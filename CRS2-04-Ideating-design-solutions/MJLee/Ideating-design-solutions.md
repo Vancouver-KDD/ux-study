@@ -1,4 +1,4 @@
-![](./images/ux design process.jpg)
+[](./images/ux design process.jpg)
 
 # Ideating-design-solutions
 
