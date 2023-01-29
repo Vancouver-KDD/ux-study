@@ -7,7 +7,8 @@ ___
 
 # UX Design process
 ![ ](https://github.com/minj2/ux-study/blob/49ad52b553d3ea48b70150a3ecce29bc2ac03f4b/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg)
-https://github.com/minj2/ux-study/blob/main/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg
+![](https://github.com/minj2/ux-study/blob/main/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg)
+
 ## Basics of UX research & design thinking process. 
 - Empathize with users, and why it's important to do so before you start designing. 
 - Personas, user story, identified happy paths and edge cases, and user journey maps.
