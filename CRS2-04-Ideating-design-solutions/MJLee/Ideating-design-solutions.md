@@ -6,7 +6,7 @@
 ___
 
 # UX Design process
-![ ](https://github.com/minj2/ux-study/blob/49ad52b553d3ea48b70150a3ecce29bc2ac03f4b/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg)
+![ ](./images/ux-design-process.jpg)
 ![](https://github.com/minj2/ux-study/blob/main/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg)
 CRS2-04-Ideating-design-solutions/MJLee/images/ux design process.jpg
 
