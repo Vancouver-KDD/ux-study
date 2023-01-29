@@ -1,5 +1,19 @@
+##### :heartpulse:  Two things that are super important in the UX design industry
+1. Determination to succeed 
+2. Desire to help others
+
+<br/><br/>
+___
+
 # UX Design process
 ![ ](https://github.com/minj2/ux-study/blob/49ad52b553d3ea48b70150a3ecce29bc2ac03f4b/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg)
+
+## Basics of UX research & design thinking process. 
+- Empathize with users, and why it's important to do so before you start designing. 
+- Personas, user story, identified happy paths and edge cases, and user journey maps.
+- Defined the user problem, by creating problem statements and hypothesis statements. 
+- Ideate through the use of competitive audits and brainstorming exercises, like "How Might We" and Crazy Eights. 
+- 
 
 ## Ideating-design-solutions
 
@@ -24,3 +38,5 @@
 - Voice and tone have a huge impact on a user's experience with a product
 - Keep in mind the fundamentals of driving sales when designing.
 - it's helpful to research your brand's competitors as part of the design exploration.
+
+
