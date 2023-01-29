@@ -1,4 +1,4 @@
-[]
+[CRS2-04-Ideating-design-solutions/MJLee/images/ux design process.jpg]
 
 # Ideating-design-solutions
 
