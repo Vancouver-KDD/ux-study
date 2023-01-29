@@ -1,6 +1,7 @@
-![ ](./images/ux-design-process.jpg)
+# UX Design process
+![ ](https://github.com/minj2/ux-study/blob/49ad52b553d3ea48b70150a3ecce29bc2ac03f4b/CRS2-04-Ideating-design-solutions/MJLee/images/ux%20design%20process.jpg)
 
-# Ideating-design-solutions
+## Ideating-design-solutions
 
 #### Preparing for ideation
 - Empathize with your user. 
