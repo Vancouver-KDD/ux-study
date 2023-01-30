@@ -83,10 +83,13 @@ This type of ideation is a very common in the ideate phase of a design sprintpro
 Need a problem statement > sketch eight ideas to address that problem >  eight minutes, one minute for each idea > Describe at least three
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/JhrDtxPwQzqaw7cT8OM6cg_a92bdac94ff34d43a507762f71ec7baa_CoffeeHouse-Crazy-Eights-1-.jpeg?expiry=1675209600000&hmac=n7Arob4PW62y016_BS8EouAiB0R2o2r4hWxP8rDF7y0)
 
+<br/><br/>
 # How the Crazy Eights activity was completed?
 1. Identifying gaps and opportunities Based on the competitive audit
 
 2. Eight solutions were drawn for the problem scenario from (1.), and after that three of the best ideas were described.
+
+<br/><br/>
 
 
 
