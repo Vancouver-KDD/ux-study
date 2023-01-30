@@ -44,7 +44,7 @@ Design can help facilitate a conversation between a business and its users.
 
 
 <br/><br/>
-##  competitive audits
+## ideate #01. Competitive audits
 <b> Direct competitors:</b> similar to your product and focus on the same audience.<br/>
 <b> Indirect competitors:</b> similar set of offerings, but focus on a different audience or vice versa.<br/>
 refs: 
@@ -62,3 +62,15 @@ refs:
 ### how to use findings from your competitive audit to brainstorm new ideas?
 Your goal is to walk away from this brainstorm with a list of ideas that help your product stand out from the competition.
 ##### Lots of ideas >  sorting > group similar ideas to uncover patterns > few ideas will naturally rise to the top
+
+
+<br/><br/>
+## ideate #02. Brainstorm design ideas by sketching
+<br/>
+### design ideation _a. "How Might We?" 
+Reframing the user's need as a question can help you think of your users and their needs in a new way.
+
+
+<br/><br/>
+### design ideation _b. Sketching
+
