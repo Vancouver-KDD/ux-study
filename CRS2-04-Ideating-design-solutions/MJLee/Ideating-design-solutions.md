@@ -5,7 +5,7 @@
 
 ___
 
-# UX Design process
+## Five stages of the Design Thinking process
 ![ ](./images/ux-design-process.jpg)
 
 
@@ -23,17 +23,21 @@ Ideation is all about coming up with lots and lots of ideas. (No evaluation is a
 - Establish a creative environment.
 - Set a time limit.
 - Assemble a diverse team. 
-- Think outside the box. 
+- Think outside the box. (https://careerfoundry.com/en/blog/ux-design/what-is-ideation-in-design-thinking/)
 
-After you come up with a bunch of ideas, take a break. and evaluate.
-1. Is it technically possible to build? 
-2. Does it solve the user problem you're focusing on? 
-3. Is it financially beneficial for the business?
+####  After you come up with a bunch of ideas, take a break. and evaluate.
+![design ideation](./images/DT-3-Design_Thinking.svg) 
+1. Feasiblile: Is it technically possible to build? 
+2. Desirable: Does it solve the user problem you're focusing on? 
+3. Viable: Is it financially beneficial for the business? <br/>https://designthinking.ideo.com/
+
+
 
 #### IDEATION is focusd on coming up with a lot of ideas
 - ideas will be narrowed down when you have to think about constraints.
 - we need to come up with ideas that are equitable- works best for usrs
 - Let users test the idea and they might find the best ideas.
+
 
 ####  Understanding the business needs behind a design
 <b>Design can help facilitate a conversation between a business and its users. </b>
