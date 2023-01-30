@@ -65,12 +65,12 @@ Your goal is to walk away from this brainstorm with a list of ideas that help yo
 
 
 <br/><br/>
-## ideate #02. Brainstorm design ideas by sketching
-<br/>
-### design ideation _a. "How Might We?" 
-Reframing the user's need as a question can help you think of your users and their needs in a new way.
+## Ideate #02. Brainstorm design ideas by sketching
 
+### Design ideation _a. "How Might We?" 
+Reframing the user's need as a question can help you think of your users and their needs in a new way.
+![worksheet](./images/HMW-Worksheet.pdf) 
 
 <br/><br/>
-### design ideation _b. Sketching
+### Design ideation _b. Sketching
 
