@@ -87,3 +87,6 @@ Need a problem statement > sketch eight ideas to address that problem >  eight m
 1. Identifying gaps and opportunities Based on the competitive audit
 
 2. Eight solutions were drawn for the problem scenario from (1.), and after that three of the best ideas were described.
+
+
+
