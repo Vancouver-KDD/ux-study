@@ -31,18 +31,34 @@ Ideation is all about coming up with lots and lots of ideas. (No evaluation is a
 2. Desirable: Does it solve the user problem you're focusing on? 
 3. Viable: Is it financially beneficial for the business? <br/>https://designthinking.ideo.com/
 
-
-
 #### IDEATION is focusd on coming up with a lot of ideas
 - ideas will be narrowed down when you have to think about constraints.
 - we need to come up with ideas that are equitable- works best for usrs
 - Let users test the idea and they might find the best ideas.
 
-
 ####  Understanding the business needs behind a design
-<b>Design can help facilitate a conversation between a business and its users. </b>
+Design can help facilitate a conversation between a business and its users.
 - Voice and tone have a huge impact on a user's experience with a product
 - Keep in mind the fundamentals of driving sales when designing.
 - it's helpful to research your brand's competitors as part of the design exploration.
 
 
+<br/><br/>
+##  competitive audits
+<b> Direct competitors:</b> similar to your product and focus on the same audience.<br/>
+<b> Indirect competitors:</b> similar set of offerings, but focus on a different audience or vice versa.<br/>
+refs: 
+[competitive analysis quide](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis)
+[competitive analysis preparation](https://edwardlowe.org/how-to-conduct-and-prepare-a-competitive-analysis/)
+
+###  TEMPLATES
+##### [competitive audit comparison template](https://docs.google.com/spreadsheets/d/1LVg_P5m-BkbHq_bc6_chsXOjpCgHicccRrvBwnau5y0/template/preview?resourcekey=0-JvbWRktWTVmeAPI2Mx2q9Q) ( :watermelon: [example](https://docs.google.com/spreadsheets/d/1OoIrE_H-rS7girFJpopQ0CBSuM98stuBFPNa-vMP5ls/template/preview#gid=2073884517) )
+
+![](./images/Competitive-audit-template.jpg)
+
+##### [competitive audit report template](https://docs.google.com/document/u/3/d/1PR1TfbyJLiBaYDkDpuKY9IR6OeSMmwLGll0XhPxN0Q4/template/preview) ( :shaved_ice: [example](https://docs.google.com/document/d/1lExH--Wky12432L7lUCkd6M7JOCLU7QTrlUgrOafnCg/template/preview#heading=h.ro6simovwtk5) )
+![](./images/Competitive-Audit-Report.jpg)
+
+### how to use findings from your competitive audit to brainstorm new ideas?
+Your goal is to walk away from this brainstorm with a list of ideas that help your product stand out from the competition.
+##### Lots of ideas >  sorting > group similar ideas to uncover patterns > few ideas will naturally rise to the top
