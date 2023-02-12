@@ -100,8 +100,14 @@ Less about emotion since the close-up storyboard is focused on the practical asp
 
 ## wireframes
 
+##### Wireframes establish the basic "structure" of a page and serve as an outline of a digital experience.
 
+is able to ... 
+- inform the elements to include in your design.
+- catch problems early.
+- save time and effort.
+- iterate quickly.
 
-
+![image](https://user-images.githubusercontent.com/17752837/218299226-0c4480c6-5b7d-43d2-965c-99480d826411.png)
 
 
