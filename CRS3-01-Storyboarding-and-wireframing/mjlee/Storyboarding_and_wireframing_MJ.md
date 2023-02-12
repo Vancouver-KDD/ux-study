@@ -15,8 +15,9 @@
 :point_right: This is an example of a product pain point, since it is a usability issue that frustrates the user.
 <br />
 <br />
+![image](https://user-images.githubusercontent.com/17752837/218298333-66225f63-054a-4826-92b6-b215207dc250.png)
 
-## Use research to inform ideation
+# Use research to inform ideation
 
 #### Empathy maps 
 explore users’ four main motivations: what the user says, thinks, does, and feels. 
@@ -39,11 +40,34 @@ Clear description of the user’s need that should be addressed.
 
 
 
-## goal statements
-ho, what, why, and how is to refer back to your problem statement.
-### + measure effectiveness by its impact
+# goal statements
+who, what, why, and how is to refer back to your problem statement.
+#### + measure effectiveness by its impact
 
+###  transition from the problem the user is facing to the solution
 - <b>who</b> can come from the persona. 
 - <b>What</b> could come from the user story. 
 - <b>Why</b> can come from the empathy map and user journey maps
 - <b>how</b> can come from the brainstorming. The how is important because it helps make sure the goal is measurable and realistic. 
+
+
+![image](https://user-images.githubusercontent.com/17752837/218298317-d4256cc8-4b6a-45ef-a636-4f2616f03428.png)
+
+
+# Outline user flows
+### A user flow is the path taken by a typical user on an app or website so they can complete a task from start to finish.
+
+
+![image](https://user-images.githubusercontent.com/17752837/218298453-44f674e1-2b92-4c95-863e-f5e2eb7d2c42.png)
+![image](https://user-images.githubusercontent.com/17752837/218298493-beba605c-a8eb-4b21-9801-d554e34992fa.png)
+
+
+# Create storyboards
+
+1. Character, is the user in your story. 
+2. Scene, helps us imagine the user's environment. 
+3. Plot describes the benefit or solution of the design.
+4. Narrative describes the user's need or problem and how the design will solve the problem.
+
+
+
