@@ -69,5 +69,39 @@ who, what, why, and how is to refer back to your problem statement.
 3. Plot describes the benefit or solution of the design.
 4. Narrative describes the user's need or problem and how the design will solve the problem.
 
+### big picture storyboard 
+Focused on the how and the why behind the user’s engagement with your design. When creating a big picture storyboard, think about questions like:
+- Why does the user need our app? Step 1-3 : background to use the app
+- How will the user use app? step 4 : user experience
+- Why will the user be delighted by the app? step 5-7 : pain points and user satisfaction
+
+#### A big picture storyboard should meet the following guidelines:
+- focus on the user.
+- indicate the environment or context where the user is located.
+- focus on the specific need or pain point experienced by the user.
+
+![image](https://user-images.githubusercontent.com/17752837/218298741-847b5e59-6145-4f08-8638-c141f2f8bf95.png)
+
+
+### The close-up storyboard 
+Less about emotion since the close-up storyboard is focused on the practical aspects of the design itself.
+- What happens on each screen of the product?
+- What does the user do to transition from one screen to another?
+- What are some assumptions we are making about this experience?
+- What are some potentially complicated interactions or pain points that will need to be addressed?
+
+
+#### A close-up storyboard should meet the following guidelines:
+- focus on the product instead of on the user experiencing that product.
+- indicate the interaction that a user may have with the product by depicting sample screens.
+- indicate any transitions between screens or states that the user may need to perform.
+
+![image](https://user-images.githubusercontent.com/17752837/218298837-67706b88-9752-492c-9e7e-b2ea1a486178.png)
+
+## wireframes
+
+
+
+
 
 
