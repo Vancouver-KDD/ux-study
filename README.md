@@ -1,6 +1,6 @@
 # UX Design Study
 
-[(Google UX Design Professional Certificate - 2. Start the UX Design Process: Empathize, Define, and Ideate)](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design)
+[(Google UX Design Professional Certificate - 3. Build Wireframes and Low-Fidelity Prototypes)](https://www.coursera.org/learn/wireframes-low-fidelity-prototypes)
 
 *Read this in other languages*: [English](README.md), [한국어](README_ko.md)
 
@@ -14,7 +14,7 @@
 - Any level of developers or designers are welcome to join but the course could be a bit busy to finish if you mind. 🥲
 
 ## 🗓 Period 
-2023.01.04(Wed) - 2023.02.01(Wed) (5 weeks, OT in the first week)  
+2023.02.08(Wed) - 2023.03.01(Wed) (4 weeks, OT in the first week)  
 
 ## ❓ How to 
 - Take a weekly course and successfully passes practice exercises including weekly challenge.

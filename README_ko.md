@@ -1,6 +1,6 @@
 # UX Design Study
 
-[(Google UX Design Professional Certificate - 2. Start the UX Design Process: Empathize, Define, and Ideate)](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design)
+[(Google UX Design Professional Certificate - 3. Build Wireframes and Low-Fidelity Prototypes)](https://www.coursera.org/learn/wireframes-low-fidelity-prototypes)
 
 *Read this in other languages*: [English](README.md), [한국어](README_ko.md)
 
