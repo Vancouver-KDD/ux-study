@@ -1,5 +1,5 @@
 ## paper wireframe
-
+![](https://github.com/minj2/ux-study/blob/e2c989cf86dcf1ce84d912f9ffc9658fef0175bb/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/Screenshot%202023-02-18%20215805.png)
 
 ## digital wireframe
 
