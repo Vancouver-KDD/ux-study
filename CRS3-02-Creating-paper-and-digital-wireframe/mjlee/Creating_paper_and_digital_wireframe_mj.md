@@ -49,4 +49,5 @@ Title: 40px Regular
 ![](https://github.com/minj2/ux-study/blob/e2c989cf86dcf1ce84d912f9ffc9658fef0175bb/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/Screenshot%202023-02-18%20215805.png)
 
 # digital wireframe
+<a href="https://www.figma.com/file/Iwyedlwl7NoGH7wX2GWoU4/google-UX-study?node-id=0%3A1&t=33G81vgHosjfE9dV-1" target="_blank"> figma file </a>
 ![](https://github.com/minj2/ux-study/blob/c58b0f724ca71fb24aab735964857f4710250292/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/wireframe%2001.png)![](https://github.com/minj2/ux-study/blob/c58b0f724ca71fb24aab735964857f4710250292/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/wireframe%2002.png)
