@@ -6,10 +6,10 @@
 3. Common region
 
 ##### more
-4. Figure-ground
+4. Focal point
 5. Continuity
 6. Closure
-7. Focal point
+7. Figure-ground
 
 
 EXAMPLES
@@ -20,15 +20,30 @@ Title: 40px Regular
 <BR/>Body text: 20px Regular
 <BR/>Text Icon link: 20px Bold
 
-#### #2. <B>Proximity</B> : close together appear to be more related than things that are spaced farther apart. 
+### #2. <B>Proximity</B> : close together appear to be more related than things that are spaced farther apart. 
 ####  it overrides similarity of color, shape, and other factors that might differentiate a group of objects.
 ##### ex: 
 ![image](https://github.com/minj2/ux-study/blob/19694319dae631b231e125a799f4b5949590d970/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/j-teemgwQc-rXnpoMHHPmQ_88dae6027fd14d6fa2da6eb090273af1_Graphic-updates-7-.svg)
 
-#### #3. <B>common region</B> : when objects are located within the same closed region, we perceive them as being grouped together. 
+### #3. <B>common region</B> : when objects are located within the same closed region, we perceive them as being grouped together. 
+![](https://github.com/minj2/ux-study/blob/dc24d46f10a917f0e5972e7224ce1a3586268d91/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/1_8mS1pxvK0Fgs8kSWy7DXCg.webp)
 
-##### ex:  we used box border to enclose all the features to their respective category, so that they will be seen as one instead of individual elements. And below is the implementation:
-![](https://github.com/minj2/ux-study/blob/7f6ddd0b86edc794113a2f589a0518d15e2a8d04/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/1_8mS1pxvK0Fgs8kSWy7DXCg.webp)
+
+### #4. Focal point: Areas of interest, emphasis or difference within a composition that capture and hold the viewer’s attention
+#####  whatever stands out visually will capture and hold the viewer’s attention first.
+![](https://github.com/minj2/ux-study/blob/bd237eb9c15216addf85745232a28f431c139ced/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/1_6aMlhTUwaa5V7h22H1ehKQ.webp)
+
+### #5. Continuity:  elements that are arranged on a line or curve are perceived to be more related than elements not on the line or curve.
+##### ex: Amazon uses continuity to communicate that each of the products below is similar and related to each other (books of similar topics that are available for purchase).
+![](https://github.com/minj2/ux-study/blob/a6fececda6820f3ad79c1f2910978831fb6185dd/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/amazon-recommendation-630x228.png)
+
+
+### #6. Closure : when you see an image that has missing parts, your brain will fill in the blanks and make a complete image so you can still recognize the pattern.
+![](https://github.com/minj2/ux-study/blob/c60c2e8e69c447d9797cfa23a44e6f69e8a3294d/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/zendesk-funding-circle-logos-630x357.png)
+
+### #7. Figure-ground: people instinctively perceive objects as either being in the foreground or the background.
+![](https://github.com/minj2/ux-study/blob/c60c2e8e69c447d9797cfa23a44e6f69e8a3294d/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/apple-figure-ground_0.jpg)
+
 
 # paper wireframe
 ![](https://github.com/minj2/ux-study/blob/e2c989cf86dcf1ce84d912f9ffc9658fef0175bb/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/Screenshot%202023-02-18%20215805.png)
