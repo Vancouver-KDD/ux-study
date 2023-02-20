@@ -46,7 +46,7 @@ Title: 40px Regular
 
 
 # paper wireframe
-![](CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/Screenshot 2023-02-18 215805.png)
+![](images/Screenshot 2023-02-18 215805.png)
 
 # digital wireframe
 
