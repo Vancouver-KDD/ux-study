@@ -46,7 +46,7 @@ Title: 40px Regular
 
 
 # paper wireframe
-![](../images/Screenshot 2023-02-18 215805.png)
+![](https://github.com/minj2/ux-study/blob/dbea856278cdcbae6b6ff573a3d4bb2fe76bdf9b/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/Screenshot%202023-02-18%20215805.png)
 
 # digital wireframe
 
@@ -54,4 +54,5 @@ Title: 40px Regular
 
 
 
-![](https://github.com/minj2/ux-study/blob/c58b0f724ca71fb24aab735964857f4710250292/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/wireframe%2001.png)![](https://github.com/minj2/ux-study/blob/c58b0f724ca71fb24aab735964857f4710250292/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/wireframe%2002.png)
+![](https://github.com/minj2/ux-study/blob/dbea856278cdcbae6b6ff573a3d4bb2fe76bdf9b/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/wireframe%2001.png)
+![](https://github.com/minj2/ux-study/blob/c58b0f724ca71fb24aab735964857f4710250292/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/wireframe%2002.png)
