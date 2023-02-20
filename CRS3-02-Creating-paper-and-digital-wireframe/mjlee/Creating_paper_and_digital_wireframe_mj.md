@@ -46,7 +46,7 @@ Title: 40px Regular
 
 
 # paper wireframe
-![](https://github.com/minj2/ux-study/blob/main/CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/Screenshot%202023-02-18%20215805.png)
+![](CRS3-02-Creating-paper-and-digital-wireframe/mjlee/images/Screenshot 2023-02-18 215805.png)
 
 # digital wireframe
 
