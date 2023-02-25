@@ -36,4 +36,13 @@ Being aware of your implicit biases and combating stereotypes is important work.
 ##   Attention economy
 ####  “A wealth of information creates a poverty of attention.” 
 
+FOMO :  fear of missing out
+###### [wellbeing.google](https://wellbeing.google/)
+#####  :warning: Avoid deceptive patterns. 
+Be honest with users. Think about your purpose for design and how your own values align with the design. 
 
+##### :dart: Think about goals and metrics. 
+Understand your company’s business goals and key performance indicators. Pay attention to how these business goals might contradict or align with your users’ goals.
+
+##### :princess: Share good design practices with the people you work with. 
+Understand your position of power as a UX designer. You have the ability to influence the decision-making process for good and make sure that the right design choices are being made.
