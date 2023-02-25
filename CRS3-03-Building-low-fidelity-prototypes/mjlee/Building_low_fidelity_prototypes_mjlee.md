@@ -5,7 +5,7 @@
 UX designers need to be aware of how our own points of view can alter our designs, influence users and affect society.
 ### Implicit biases are the collection of attitudes and stereotypes we associate with people without our conscious knowledge. 
 Being aware of your implicit biases and combating stereotypes is important work. By creating inclusive user experiences, designers help build a more equitable society. 
-
+ <br/><br/><br/>
 ## deceptive patterns. Avoid them!
 
 ### Forced continuity:
@@ -31,6 +31,9 @@ Being aware of your implicit biases and combating stereotypes is important work.
 : very aware of the limited number of items in stock.
 
 - Designers should always aim to inform and not deceive users. 
+ <br/><br/><br/>
 
+##   Attention economy
+####  “A wealth of information creates a poverty of attention.” 
 
 
