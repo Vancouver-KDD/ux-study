@@ -67,10 +67,12 @@ In inclusive design, there is no such thing as normal, and there is no "average"
 
 #### Accountability
  Seek out the opinions of users, coworkers, and stakeholders who are different from you. 
- 
+
+<br/><br/><br/>
+
 ### 01.Create inclusive personas
 ### 02.Broaden your definition of “stakeholder”
 ### 03.Increase collaboration
-
+<br/><br/><br/>
 # You can make a difference
  
