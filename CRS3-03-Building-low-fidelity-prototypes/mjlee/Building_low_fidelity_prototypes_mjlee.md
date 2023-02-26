@@ -47,7 +47,7 @@ Understand your company’s business goals and key performance indicators. Pay a
 ##### :princess: Share good design practices with the people you work with. 
 Understand your position of power as a UX designer. You have the ability to influence the decision-making process for good and make sure that the right design choices are being made.
 
-
+<br/><br/><br/>
 ## Ethical design
 #### dominant culture
 one of your users has that opposite perspective.
@@ -68,7 +68,7 @@ In inclusive design, there is no such thing as normal, and there is no "average"
 #### Accountability
  Seek out the opinions of users, coworkers, and stakeholders who are different from you. 
 
-<br/><br/><br/>
+<br/><br/>
 
 ### 01.Create inclusive personas
 ### 02.Broaden your definition of “stakeholder”
