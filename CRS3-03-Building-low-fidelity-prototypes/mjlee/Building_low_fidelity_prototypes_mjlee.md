@@ -46,3 +46,31 @@ Understand your company’s business goals and key performance indicators. Pay a
 
 ##### :princess: Share good design practices with the people you work with. 
 Understand your position of power as a UX designer. You have the ability to influence the decision-making process for good and make sure that the right design choices are being made.
+
+
+## Ethical design
+#### dominant culture
+one of your users has that opposite perspective.
+#### marginalized population (소외) & Underrepresented populations (과소)
+Both marginalized and underrepresented populations aren’t part of the dominant culture, so they’re often not recognized in the design process unless the designer makes a conscious decision to include them. 
+
+- How can I design products so that the dominant culture is not always viewed as the norm? 
+
+- How can I design products in a way that encourages all perspectives to be included?
+
+#### Edge cases 
+are situations that a user experiences with a product that the designers didn’t prepare for.
+####### Be flexible and ready to adjust your designs throughout the process to account for these kinds of unexpected issues among groups of users that you might not have initially considered. 
+
+#### Inclusive design 
+In inclusive design, there is no such thing as normal, and there is no "average" person to design for.
+
+#### Accountability
+ Seek out the opinions of users, coworkers, and stakeholders who are different from you. 
+ 
+### 01.Create inclusive personas
+### 02.Broaden your definition of “stakeholder”
+### 03.Increase collaboration
+
+# You can make a difference
+ 
