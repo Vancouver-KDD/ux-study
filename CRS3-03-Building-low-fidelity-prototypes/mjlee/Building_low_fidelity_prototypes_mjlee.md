@@ -76,3 +76,6 @@ In inclusive design, there is no such thing as normal, and there is no "average"
 <br/><br/><br/>
 # You can make a difference
  
+
+<br/><br/>
+[figma low-fi prototype](https://www.figma.com/proto/Iwyedlwl7NoGH7wX2GWoU4/google-UX-study?page-id=0%3A1&node-id=25%3A7&viewport=-1611%2C1713%2C0.73&scaling=scale-down&starting-point-node-id=24%3A4&show-proto-sidebar=1)
