@@ -1,6 +1,6 @@
 # UX Design Study
 
-[(Google UX Design Professional Certificate - 3. Build Wireframes and Low-Fidelity Prototypes)](https://www.coursera.org/learn/wireframes-low-fidelity-prototypes)
+[(Google UX Design Professional Certificate - 4. Conduct UX Research and Test Early Concepts)](https://www.coursera.org/learn/conduct-ux-research)
 
 *Read this in other languages*: [English](README.md), [한국어](README_ko.md)
 
@@ -14,8 +14,7 @@
 - 모든 레벨의 개발자 분들과 디자이너 분들을 환영하지만 코스의 완료 일정이 아주 약간은 벅찰 수도 있습니다. 🥲
 
 ## 🗓 기간 
-2023.02.08(Wed) - 2023.03.01(Wed) (4 weeks, 첫 주는 OT입니다)  
-스터디 진행 경과에 따라서 1~2주 정도 늘어날 수 있습니다.
+2023.03.15(Wed) - 2023.04.05(Wed) (4 weeks, OT는 진행하지 않습니다)
 
 ## ❓ 어떻게 진행하나요?
 - 매주 해당 주차 강의를 듣고 모든 과제와 퀴즈를 통과합니다.
