@@ -1,7 +1,7 @@
 # Planning UX research 
 
 7 Elements of UX research plan
-![image](https://user-images.githubusercontent.com/17752837/224575369-c7a86562-8209-41cc-8825-dc30bc4eaeeb.png)
+![image](https://github.com/minj2/ux-study/blob/b2dd5595f16c68bbb66442863587dad78a53779c/CRS4-01-Planning-UX-research-studies/mjlee/images/224575369-c7a86562-8209-41cc-8825-dc30bc4eaeeb.png)
 
 ## 01. project background
   why you're doing this research. Why is the project background an important part of your research plan
