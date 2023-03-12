@@ -91,14 +91,12 @@ actionable / specific and not too broad / neutrally phrased
     *  data recording.
     *  data storage
     *  data retention
-<b> you should have an agreement in place with the company you work for that lays out who keeps the research data if you leave the company 
-  
-  <br/><br/>
-  
-  
+<b> you should have an agreement in place with the company you work for that lays out who keeps the research data if you leave the company </b>
+   
 ### tools you can use to maintain privacy  
   01. de-identification : removing any identifying information
   02. non-disclosure agreement or an NDA : compensate you for the loss 
+  <br/><br/>
 ## UX research process
 ### 1. plan the study
 ###### outlining the background for the project, set goals for your research, and write down the questions
