@@ -81,13 +81,19 @@ actionable / specific and not too broad / neutrally phrased
     *  protecting your company's brand.
  
 ### privacy concerns
-    *  vulnerable populations : minors, people with disabilities, people who are elderly, people who are currently incarcerated, and individuals that are members of the LGBTQ IA plus community
+ vulnerable populations : <br/>
+  
+    *  minors, people with disabilities, people who are elderly, 
+    *  people who are currently incarcerated, 
+    *  individuals that are members of the LGBTQ IA plus community
 
 ### safety of research data
     *  data recording.
     *  data storage
     *  data retention
-### you should have an agreement in place with the company you work for that lays out who keeps the research data if you leave the company 
+<b> you should have an agreement in place with the company you work for that lays out who keeps the research data if you leave the company 
+  
+  <br/><br/>
   
   
 ### tools you can use to maintain privacy  
