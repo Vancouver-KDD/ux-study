@@ -54,11 +54,11 @@ actionable / specific and not too broad / neutrally phrased
   
  #### Assistive technology for participants with disabilities
  A permanent disability/ A temporary impairment / A situational challenge 
-  ![image](https://user-images.githubusercontent.com/17752837/224579918-5665ec4a-9ea3-4c56-9727-5dec2a140eb9.png)
+  ![image](https://github.com/minj2/ux-study/blob/fe638e1ab0f68dff6c0243d069813d2911aa14a4/CRS4-01-Planning-UX-research-studies/mjlee/images/224579918-5665ec4a-9ea3-4c56-9727-5dec2a140eb9.png)
 
   <b>most common assistive technology ATs</b><br/>
  A screen reader /  A switch / Closed captioning and speech-to-text / Reminder alarms / Augmentative and Alternative Communication (AAC) devices 
-![image](https://user-images.githubusercontent.com/17752837/224579925-c561f1f3-327e-4f67-ac74-c0a8ab6094f8.png)
+![image](https://github.com/minj2/ux-study/blob/fe638e1ab0f68dff6c0243d069813d2911aa14a4/CRS4-01-Planning-UX-research-studies/mjlee/images/224579925-c561f1f3-327e-4f67-ac74-c0a8ab6094f8.png)
 
 <br/><br/>
   
