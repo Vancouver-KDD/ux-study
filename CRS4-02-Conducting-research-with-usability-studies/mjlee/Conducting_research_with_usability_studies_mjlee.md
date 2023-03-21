@@ -3,45 +3,20 @@ A usability study is a research method that assesses how easy it is for particip
 
 ## moderated 
  have a person, known as a moderator, guide participants through the study in real time. 
+
+
+| ADVANTAGE     | DISADVANTAGE  |
+| ------------- | ------------- |
+| - Build rapport. <br>- Observe firsthand.<br>- Provide live guidance.<br>- Explain the user journey. <br>- Control the conversation. <br>- Make language adjustments.<br>- Gain clarification.| - Influence or bias. <br>- Self-identification. <br>- Participant pool. <br>- Difficult scheduling. <br>- Reliable internet required. <br>- High cost. |
+
+
+
 ## unmoderated 
  have participants test the prototypes without human guidance. 
- 
-### advantages and disadvantages of  moderated usability study
 
-#### ADVANTAGE
-- Build rapport. 
-- Observe firsthand.
-- Provide live guidance.
-- Explain the user journey. 
-- Control the conversation. 
-- Make language adjustments.
-- Gain clarification. <br/><br/>
-#### DISADVANTAGE
-- Influence or bias. 
-- Self-identification. 
-- Participant pool. 
-- Difficult scheduling. 
-- Reliable internet required. 
-- High cost. 
-
-
-### advantages and disadvantages of unmoderated usability study
-
-#### ADVANTAGE
-- Natural product interactions. 
-- More participants. 
-- Easier scheduling.
-- Inexpensive. 
-- More privacy. 
-- Simple user journeys. <br/><br/>
-#### DISADVANTAGE
-- No real-time support. 
-- No live follow-ups.
-- Potential distractions. 
-- Possible privacy breaches. 
-- Inaccessibility.
-- More data to analyze. 
-- Simple user journeys only. 
+| ADVANTAGE     | DISADVANTAGE  |
+| ------------- | ------------- |
+| - Natural product interactions. <br>- More participants. <br>- Easier scheduling.<br>- Inexpensive. <br>- More privacy. <br>- Simple user journeys.|- No live follow-ups.<br>- Potential distractions. <br>- Possible privacy breaches.         <br>- Inaccessibility.<br>- More data to analyze. <br>- Simple user journeys only.|
 
  ## usability study best practices
 1. Get comfortable : build a rapport with participants
