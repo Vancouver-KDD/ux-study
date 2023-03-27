@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/17752837/227853800-c1835190-b711-440f-831f-63723ef74638.png)
+![image](https://github.com/minj2/ux-study/blob/3b4cd9b656b05458defc37f799b671b3ce76e4a8/CRS4-03-Analyzing-and-synthesizing-research-results/mjlee/images/227853800-c1835190-b711-440f-831f-63723ef74638.png)
 
 # Make insights from observations
 In just four steps, we can turn the observations from our research into actionable insights.
@@ -42,10 +42,9 @@ new perspective
   
   
 example:
-![image](https://user-images.githubusercontent.com/17752837/227857496-dba378f7-dff4-4d7f-b586-517d8bf6ba3c.png)
-![image](https://user-images.githubusercontent.com/17752837/227857521-a6ea0428-8b7b-4286-beed-acbb41322230.png)
+![image](https://github.com/minj2/ux-study/blob/3b4cd9b656b05458defc37f799b671b3ce76e4a8/CRS4-03-Analyzing-and-synthesizing-research-results/mjlee/images/227857496-dba378f7-dff4-4d7f-b586-517d8bf6ba3c.png)
+![image](https://github.com/minj2/ux-study/blob/3b4cd9b656b05458defc37f799b671b3ce76e4a8/CRS4-03-Analyzing-and-synthesizing-research-results/mjlee/images/227857521-a6ea0428-8b7b-4286-beed-acbb41322230.png)
 affinity diagram
-![image](https://user-images.githubusercontent.com/17752837/227857699-372b7996-b711-479c-b544-d65af9e86664.png)
-
+![image](https://github.com/minj2/ux-study/blob/3b4cd9b656b05458defc37f799b671b3ce76e4a8/CRS4-03-Analyzing-and-synthesizing-research-results/mjlee/images/227857699-372b7996-b711-479c-b544-d65af9e86664.png)
 
 
