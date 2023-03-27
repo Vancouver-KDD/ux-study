@@ -41,10 +41,29 @@ new perspective
   System Usability Scale (SUS): A questionnaire to measure the usability of designs
   
   
-example:
-![image](https://github.com/minj2/ux-study/blob/3b4cd9b656b05458defc37f799b671b3ce76e4a8/CRS4-03-Analyzing-and-synthesizing-research-results/mjlee/images/227857496-dba378f7-dff4-4d7f-b586-517d8bf6ba3c.png)
-![image](https://github.com/minj2/ux-study/blob/3b4cd9b656b05458defc37f799b671b3ce76e4a8/CRS4-03-Analyzing-and-synthesizing-research-results/mjlee/images/227857521-a6ea0428-8b7b-4286-beed-acbb41322230.png)
-affinity diagram
+#### example:
+##### Gmail labels / groupping
 ![image](https://github.com/minj2/ux-study/blob/3b4cd9b656b05458defc37f799b671b3ce76e4a8/CRS4-03-Analyzing-and-synthesizing-research-results/mjlee/images/227857699-372b7996-b711-479c-b544-d65af9e86664.png)
+##### Pattern identification - Gmail labels 
+1. It was observed that 4 out of 5 subjects had trouble finding the 3 dots sub-menu .
+   - This means that the 3 dots sub-menu is difficult to find for almost all users.
+2. It was observed that 3 out of 5 subjects had a hard time knowing what to do first to create a label .
+   - This means that for most users, it’s not immediately clear how to create a new label .
+3. It was observed that 3 out of 5 subjects saw a use for labels . 
+   - This means that labels are useful for most people, but not an overwhelming majority .
+4. It was observed that 3 out of 5 subjects were confused by the word “nest” when adding a sub label .
+   - This means that not everyone is familiar with the term “nesting” or this specific use .
+5. It was observed that 3 out of 5 subjects had trouble changing the color of the “Shopping” label .
+   - This means that most users were unsure how to change
 
-
+##### INSIGHTS
+1. Based on the theme that: for most users, it’s not immediately clear how to create a new label, 
+   - an insight is: users need better cues for what steps are required to create a label.
+2. Based on the theme that: the 3 dot sub-menu is difficult to find for almost all users, 
+   - an insight is: users need a more intuitive way to access label settings.
+3. Based on the theme that: labels are useful for most people, but not an overwhelming majority, 
+   - an insight is: users need more information about the potential value of using Gmail labels.
+4. Based on the theme that: not everyone is familiar with the term “nesting” or this specific use, 
+   - an insight is: use accessible language (avoid jargon) when explaining uses for the Gmail labels feature.
+5. Based on the theme that: most users were unsure how to change the color of a label, 
+   - an insight is: users need better cues for what steps are required to change the color of a label.
