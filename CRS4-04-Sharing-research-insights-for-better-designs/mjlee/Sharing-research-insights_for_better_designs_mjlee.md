@@ -15,7 +15,8 @@ To show insights
 03. insights and recommendations
 04. an appendix. 
 ### METHOD 02.  research report.
-  fewer visuals containing the same information as the presentation. using tools like Google Docs, Microsoft Word, or Apple's Pages
+  fewer visuals containing the same information as the presentation. 
+  <br/>  using tools like Google Docs, Microsoft Word, or Apple's Pages
   
 ## Tips for creating a strong presentation
 * Know your audience 
@@ -44,13 +45,16 @@ To show insights
 ####  so start practicing. You're going to do great.
 
 
-### priority 
-UX design is a really iterative process, very often prioritizing and advocating for user needs becomes the responsibility of the UX researcher and designer.
+### priorize and itherate
+UX design is a really iterative process, <br/>
+very often prioritizing and advocating for user needs becomes the responsibility of the UX designer.
 
-We learned the linear method: research -> wireframe > progotype > userbility testing > insight -> design 
+##### We learned the linear method: 
+     * research -> wireframe > progotype > userbility testing > insight -> design 
 
-However, in reality, it's circular. 
- researching > synthesizing > iterating based on that research 
+##### However, in reality, it's circular. 
+
+     *  researching > synthesizing > iterating based on that research (looping)
  is a loop, not a line. That means the cycle is often repeated many times.
  
  
